@@ -37,12 +37,16 @@
   flex: 1;
   margin-bottom: 30px;
 }
+
 .skills-image > img {
   margin-left: 80px;
   max-width: 90%;
   height: auto;
 }
 
+.skills-image {
+  display: none;
+}
 /* Media Query */
 
 @media (max-width: 1456px) {

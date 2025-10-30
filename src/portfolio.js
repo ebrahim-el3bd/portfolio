@@ -35,7 +35,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ebrahim-el3bd",
-  linkedin: "https://www.linkedin.com/in/ebrahim-elabd-198b92213/",
+  linkedin: "https://www.linkedin.com/in/ibrahim-elabd/",
   facebook: "https://www.facebook.com/ebrahem.elabd.7",
   medium: "https://medium.com/@ebrahimelabd798",
   twitter: "https://twitter.com/ebrahim_elabd34",
@@ -55,6 +55,8 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
+    emoji("⚡ Implemented custom WordPress themes and configured plugins to enhance website functionality"),
+    emoji("⚡ Optimized website performance using Lighthouse and PageSpeed insights"),
     emoji("⚡ Determining the structure and design of web pages. And web design is optimized for smartphones."),
     emoji(
       "⚡ Convert PSD Or XD To Template"
@@ -92,9 +94,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
+      skillName: "Wordpress",
+      fontAwesomeClassname: "fab fa-wordpress"
+     },
+    
     {
       skillName: "Git",
       fontAwesomeClassname: "fab fa-git-alt"
@@ -111,6 +114,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "figma",
       fontAwesomeClassname: "fab fa-figma"
     },
+        {
+      skillName: "NPM",
+      fontAwesomeClassname: "fab fa-npm"
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
