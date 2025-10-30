@@ -484,7 +484,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "ebrahim_elabd34", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
