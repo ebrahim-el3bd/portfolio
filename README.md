@@ -148,21 +148,12 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 ```javascript
 /* Change this file to get your Personal Porfolio */
-
-const greeting = {
-  /* Your Summary And Greeting Section */
-  title: "Hi all I'm Sunmughan",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1EbRnkIX9o9W34GunqHkS_BuNmv3GS2Ma/view?usp=drivesdk"
-};
-
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/sunmughan",
-  linkedin: "https://www.linkedin.com/in/sunmughan/",
-  gmail: "sunmughan@gmail.com",
-  gitlab: "https://gitlab.com/sunmughan",
-  facebook: "https://www.facebook.com/sunmughan"
+  github: "https://github.com/ebrahim-el3bd",
+  linkedin: "https://www.linkedin.com/in/ibrahim-elabd/",
+  gmail: "ebrahimelabd30@gmail.com",
+  facebook: "https://www.facebook.com/ebrahem.elabd.7"
 };
 
 
